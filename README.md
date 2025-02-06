@@ -55,7 +55,6 @@ This advanced section dives into concurrency, multithreading, and multiprocessin
 - **32_web_scraping.py**: Introduction to web scraping, gathering data from web pages programmatically. 🌍
 - **33_multiprocessing.py**: Learn about multiprocessing for parallel processing of tasks to utilize multiple CPU cores. ⚡
 - **34_multithreading.py**: Explore multithreading for managing concurrent tasks and I/O-bound operations. 🔄
-- **35_threading.py**: Understand Python's `threading` module and how to handle threads for running multiple tasks in parallel. 🧵
 
 ## How to Use This Repository 🛠️
 
